@@ -2,7 +2,7 @@
 <h3 align="center">A student developer of Civil Engineering in Computer Sciences</h3>
 <h3 align="center">Un estudiante desarrollador de Ingeniería civil en Informática</h3>
 
-<h3 align="left">Contact me on:</h3>
+<h3 align="left"title="Contáctame en:"> Contact me on:</h3>
 <h3 align="left">Contáctame en:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/camilo-ojeda-velasquez/" target="blank"><img align="center" src="linked-in-alt.svg" alt="https://www.linkedin.com/in/camilo-ojeda-velasquez/" height="30" width="40" /></a>
