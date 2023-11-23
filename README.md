@@ -1,5 +1,5 @@
-<h1 align="center"title="Hola 👋, soy Camilo Ojeda">Hi 👋, I'm Camilo Ojeda</h1>
-<h3 align="center"title="Un estudiante desarrollador de Ingeniería civil en Informática">A student developer of Civil Engineering in Computer Sciences</h3>
+<h1 align="center"title="Hola 👋, soy Camilo Ojeda">Hi 👋, I'm Camilo Ojeda from Chileimg align="center" src="Flag_of_Chile.svg"</h1>
+<h3 align="center"title="Un estudiante desarrollador de Ingeniería civil en Informática en la Universidad de los Lagos">A student developer of Civil Engineering in Computer Sciences on the Universidad de los Lagos</h3>
 
 <h3 align="left"title="Contáctame en:"> Contact me on:</h3>
 <p align="left">
