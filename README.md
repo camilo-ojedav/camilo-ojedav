@@ -1,4 +1,4 @@
-<h1 align="center"title="Hi 👋, I'm Camilo Ojeda from Chile">Hola 👋, soy Camilo Ojeda de Chile <img align="center" src="Flag_of_Chile.png"></h1>
+<h1 align="center"title="Hi 👋 I'm Camilo Ojeda from Chile">Hola 👋 soy Camilo Ojeda de Chile <img align="center" src="Flag_of_Chile.png"></h1>
 <h3 align="center"title="A student of Civil Engineering in Computer Sciences on the Universidad de los Lagos">Un estudiante de Ingeniería civil en Informática en la Universidad de los Lagos</h3>
 
 <h3 align="left"title="Contact me on:">Contáctame en: </h3>
