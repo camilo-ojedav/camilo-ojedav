@@ -3,8 +3,8 @@
 
 <h3 align="left"title="Contáctame en:"> Contact me on:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/camilo-ojeda-velasquez/" target="blank"><img align="center" src="linked-in-alt.svg" alt="https://www.linkedin.com/in/camilo-ojeda-velasquez/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/camilo_ojeda.ai/" target="blank"><img align="center" src="instagram.svg" alt="https://www.instagram.com/camilo_ojeda.ai/" height="30" width="40" /></a>
+<a title="LinkedIn"href="https://www.linkedin.com/in/camilo-ojeda-velasquez/" target="blank"><img align="center" src="linked-in-alt.svg" alt="https://www.linkedin.com/in/camilo-ojeda-velasquez/" height="30" width="40" /></a>
+<a title="Instagram personal"href="https://www.instagram.com/camilo_ojeda.ai/" target="blank"><img align="center" src="instagram.svg" alt="https://www.instagram.com/camilo_ojeda.ai/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left"title="Lenguajes y Herramientas:">Languages and Tools:</h3>
