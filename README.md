@@ -11,10 +11,13 @@
 <p align="left"> 
 <a title="Python"href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a title="Tensorflow" href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a title="Keras" href="https://https://keras.io/" target="_blank" rel="noreferrer"> <img src="Keras_logo.svg" alt="keras" width="40" height="40"/> </a> 
 <a title="Pandas" href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 <a title="Pytorch" href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 <a title="Seaborn" href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 </p>
+
+
 
 <p align="left"> 
 <a title="C"href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -23,8 +26,8 @@
 <a title="JavaScript"href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a title="Linux"href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a title="PostgreSQL"href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img title="Ruby"src="ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
+<a title="Ruby" href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img title="Ruby"src="ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
 <a title="SQLite"href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 </p>
 
-<img src="snake.svg" alt="Snake animation" />
+<img src="snake.svg" alt="Snake animation"/>
