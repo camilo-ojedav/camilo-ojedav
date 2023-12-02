@@ -8,7 +8,12 @@
 </p>
 
 <h3 align="left"title="Languages and Tools:">Lenguajes y Herramientas:</h3>
-<p align="left"> <a title="Python"href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a title="Python"href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+</p>
 
 <p align="left"> 
 <a title="C"href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -19,11 +24,6 @@
 <a title="PostgreSQL"href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img title="Ruby"src="ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
 <a title="SQLite"href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-<img src="tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
 <img src="snake.svg" alt="Snake animation" />
