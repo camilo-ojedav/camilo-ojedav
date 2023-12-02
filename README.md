@@ -8,11 +8,12 @@
 </p>
 
 <h3 align="left"title="Languages and Tools:">Lenguajes y Herramientas:</h3>
-<p align="left"> <a title="Python"href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<p align="left"> 
+<a title="Python"href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a title="Tensorflow" href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a title="Pandas" href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+<a title="Pytorch" href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+<a title="Seaborn" href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 </p>
 
 <p align="left"> 
