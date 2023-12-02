@@ -9,7 +9,7 @@
 
 <h3 align="left"title="Languages and Tools:">Lenguajes y Herramientas:</h3>
 <p align="left"> 
-<a title="Python" href="https://www.python.org" target="blank" rel="noreferrer"> <img src="python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a title="Python" href="https://www.python.org" target="blank"> <img src="python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a title="Tensorflow" href="https://www.tensorflow.org" target="blank" rel="noreferrer"> <img src="tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a title="Keras" href="https://https://keras.io/" target="blank" rel="noreferrer"> <img src="Keras_logo.png" alt="keras" width="40" height="40"/> </a> 
 <a title="Pandas" href="https://pandas.pydata.org/" target="blank" rel="noreferrer"> <img src="pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
