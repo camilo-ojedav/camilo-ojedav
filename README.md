@@ -8,6 +8,8 @@
 </p>
 
 <h3 align="left"title="Languages and Tools:">Lenguajes y Herramientas:</h3>
+<p align="left"> <a title="Python"href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="python-original.svg" alt="python" width="40" height="40"/> </a> <\p>
+
 <p align="left"> 
 <a title="C"href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a title="Git"href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -15,7 +17,7 @@
 <a title="JavaScript"href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a title="Linux"href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a title="PostgreSQL"href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a title="Python"href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="python-original.svg" alt="python" width="40" height="40"/> </a> 
+
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img title="Ruby"src="ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
 <a title="SQLite"href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="pandas-original.svg" alt="pandas" width="40" height="40"/> 
