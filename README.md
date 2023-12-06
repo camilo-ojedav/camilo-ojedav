@@ -20,7 +20,7 @@
 <p align="left"> 
 <a title="C"href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a title="Git"href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-[//]: <> <a title="Java"href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a title="Java"href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a title="JavaScript"href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a title="Linux"href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a title="PostgreSQL"href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
